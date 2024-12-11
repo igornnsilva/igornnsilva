@@ -2,7 +2,7 @@
 👋  Hello World! <br>
 💬  My name is Igor Nascimento. <br>
 🔭  I am a Computer Science student at UFV and 
-currently a testing intern. <br>
+currently a testing intern at R2DA Tecnologia. <br>
 💻  I am proficient in Java, C, C++ and Python! <br>
 😄  Welcome to my profile :) 
 
