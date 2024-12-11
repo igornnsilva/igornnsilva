@@ -1,5 +1,5 @@
 
-👋  Hello World! 
+👋  Hello World! <br>
 💬  My name is Igor Nascimento. <br>
 🔭  I am a Computer Science student at UFV and 
 currently a testing intern. <br>
