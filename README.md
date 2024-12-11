@@ -1,11 +1,11 @@
 
-👋  Hello World! <br>
+<H1>Hello, World!👋</H1><br>
 💬  My name is Igor Nascimento. <br>
 🔭  I am a Computer Science student at UFV and 
 currently a Test Intern at R2DA Tecnologia. <br>
 💻  I am proficient in Java, C, C++ and Python! <br>
-😄  Welcome to my profile :) 
-
+😄  Welcome to my profile :) <br>
+<br>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=igornnsilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="149" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igornnsilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
